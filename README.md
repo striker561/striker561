@@ -30,7 +30,7 @@ I write code with a level of cleanliness that may induce tears of joy (or perhap
 * Making magic happen, one line of code at a time. ✨
 
 # **Need help with 🫱🏾‍🫲🏾:**
-* Building a website that exudes a futuristic aura (or at least 2024)?
+* Building a website that exudes a futuristic aura (or at least 2025)?
 * Developing an app that's as smooth as butter (and just as addicting)?
 * Finding a coding collaborator who values shared growth and learning?
 * While the bulk of my work resides in private repositories, I'm passionate about open-source contributions and actively seek opportunities to share my knowledge and expertise.
